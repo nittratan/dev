@@ -1,0 +1,29 @@
+{
+    "Users": [
+        {
+            "id": 1,
+            "name": "suraj",
+            "city": "patna"
+        },
+        {
+            "id": 2,
+            "name": "Niraj",
+            "city": "Ranchi"
+        },
+        {
+            "id": 3,
+            "name": "Monu",
+            "city": "Siwan"
+        },
+        {
+            "id": 4,
+            "name": "Kishan",
+            "city": "Prayagraj"
+        },
+        {
+            "id": 5,
+            "name": "Shivam",
+            "city": "Banaras"
+        }
+    ]
+}
