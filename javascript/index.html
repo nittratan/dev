@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1> User data Json </h1>
+     <script>
+        // object
+        var user = {
+            name: "Kishan",
+            age: 27,
+            isAdmin: true,
+            courses: ["html", "css", "js"],
+            address: { // nested object
+                street: "Gobindapur",
+                city: "siwan",
+                country: "India"
+                }
+            }
+        console.log(user);
+        console.log(user.address.city);
+        console.log(user.courses[1]);
+     </script>
+</body>
+</html>

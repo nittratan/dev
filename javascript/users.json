@@ -1,0 +1,104 @@
+{
+    "users": [
+        {
+            "name": "Ratan",
+            "age": 24,
+            "isMarried": false,
+            "Skills": ["Java", "Python", "C++", "C"],
+            "address": {
+                "street": "48, Gobinda pur Main St",
+                "city": "Siwan",
+                "state": "Bihar",
+                "zip": "841238"
+            },
+            "designation": "Software Engineer"
+        },
+        {
+            "name": "Kishan",
+            "age": 27,
+            "isMarried": true,
+            "Skills": ["Java", "Python", "C++", "C"],
+            "address": {
+                "street": "Manda khas",
+                "city": "Prayagraj",
+                "state": "UP",
+                "zip": "981234"
+            },
+            "designation": "Software Developer"
+        },
+        {
+            "name": "Amit",
+            "age": 24,
+            "isMarried": false,
+            "Skills": ["pHP", "Python", "C++", "C"],
+            "address": {
+                "street": "Kushinagar",
+                "city": "Gorakhpur",
+                "state": "UP",
+                "zip": "907612"
+            },
+            "designation": "Assosiate Software Engineer"
+        },
+        {
+            "name": "Monu Kumar",
+            "age": 27,
+            "isMarried": true,
+            "address": {
+                "street": "Bhabua",
+                "city": "Bhabua",
+                "state": "Bihar",
+                "zip": "908761"
+            },
+            "designation": "Data scientist"
+        },
+        {
+            "name": "Sudhanshu",
+            "age": 25,
+            "isMarried": false,
+            "address": {
+                "street": "Muzzafarpur",
+                "city": "Muzzafarpur",
+                "state": "Bihar",
+                "zip": "841408"
+            },
+            "designation": "Analyst"
+        },
+        {
+            "name": "Harshit",
+            "age": 25,
+            "isMarried": false,
+            "address": {
+                "street": "Yashoda nagar",
+                "city": "Kanpur",
+                "state": "UP",
+                "zip": "110987"
+            },
+            "designation": "Technical analyst"
+        },
+        {
+            "name": "Ritesh",
+            "age": 25,
+            "isMarried": true,
+            "address": {
+                "street": "Gurugram",
+                "city": "Gurugram",
+                "state": "Haryana",
+                "zip": "879012"
+            },
+            "designation": "Assosite Software Engineer"
+        },
+        {
+            "name": "Rishikant",
+            "age": 26,
+            "isMarried": false,
+            "address": {
+                "street": "Badaun",
+                "city": "Bareilly",
+                "state": "UP",
+                "zip": "981234"
+            },
+            "designation": "Senior Software Engineer"
+        }
+        
+    ]
+}
